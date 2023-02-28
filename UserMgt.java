@@ -1,6 +1,6 @@
 My first Git Project
 John
-Paul
+Saul
 Peter
 Tommy
 Kate
