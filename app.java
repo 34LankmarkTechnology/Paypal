@@ -1,5 +1,6 @@
-This is the first Java system
-Developing java apps
+We support;
+java applications
 dot.net applications
 NodeJS applications
 python application
+web applications
